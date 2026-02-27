@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Do I Wanna Know?",
+  "base_artist": "Arctic Monkeys",
+  "createdAt": "2026-02-27T04:34:54.575154Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/01_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/02_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/03_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do I Wanna Know",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/04_Do_I_Wanna_Know_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/05_Do_I_Wanna_Know_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do I Wanna Know? x Do I Wanna Know? - Hozier x Arctic Monkeys Mashup",
+      "artist": "DAISUKE",
+      "has_synced": true,
+      "path": "select/06_Do_I_Wanna_Know__x_Do_I_Wanna_Know__-_Hozier_x_Arctic_Monkeys_Mashup_DAISUKE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/07_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do I Wanna Know",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/08_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/09_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/10_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/11_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do I Wanna Know",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/12_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do I Wanna Know？",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/13_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/14_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Do I Wanna Know",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/15_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/16_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Nico Borie",
+      "has_synced": true,
+      "path": "select/17_Do_I_Wanna_Know_Nico_Borie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/18_Do_I_Wanna_Know_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "has_synced": false,
+      "path": "select/pl_01_Do_I_Wanna_Know_Arctic_Monkeys.txt"
+    }
+  ]
+}
